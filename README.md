@@ -19,8 +19,4 @@ This brings accessibility to modular blockchain data — making institutional on
 Live demo (base): https://honestdemo.manus.space
 Repo (base): https://github.com/Luckyspot0gold/HONEST-
 
-New repo (this hackathon): [create fresh GitHub repo now – name it HONEST-0G-SensoryOracle]
-
-Wallet for prizes: [your Avalanche Fuji or 0G wallet address]
-
-Why 0G? Modular data streams + low-latency finality make sensory translation real-time and verifiable — perfect for accessibility tooling and institutional adoption.
+Todays Kimi AI 2 prompt of 3 free creation: https://2y4c2atom332w.ok.kimi.link
